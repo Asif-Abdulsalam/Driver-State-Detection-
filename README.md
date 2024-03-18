@@ -6,11 +6,11 @@ The primary objective of this project is to identify the driver's state while op
 
 Utilizing facial keypoints, the system maps various facial features to calculate parameters such as eye lid positions and regions of interest (ROI) around the eyes. Based on these calculations, the model predicts the driver's state, focusing on five distinct states:
 
-1. Normal State
+**1. Normal State
 2. Sleep State
 3. Looking Away State
 4. Distracted State
-5. Tired State
+5. Tired State**
 
 This project offers a comprehensive approach to enhancing driver safety by detecting and addressing potential hazards arising from various driver states.
 
@@ -23,9 +23,9 @@ To use this project, follow these steps:
 
 Before running the project, ensure that you have the necessary libraries installed:
 
-- OpenCV
+**- OpenCV
 - NumPy
-- Dlib
+- Dlib**
 
 You can install these libraries using a package manager like pip. For example:
 
